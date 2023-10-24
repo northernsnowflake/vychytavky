@@ -19,5 +19,7 @@ do souboru přesměrujte vstup ze souboru z předchozího programu
 
 ------
 použij příkazy
+
 python generuj.py > vysledek.txt
+
 python vyhodnot.py < vysledek.txt
